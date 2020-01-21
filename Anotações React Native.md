@@ -1,5 +1,8 @@
 **Dicas para desenvolvimento React Native**
 ___
+
+Tutorial de MarkDown: [Blog do Da2k](https://blog.da2k.com.br/2015/02/08/aprenda-markdown/)
+___
 **1. Uso da função require** 
 
 A função require( ) recebe apenas **strings estáticas**, ou seja, nada de tentar interpolar algo do tipo 
